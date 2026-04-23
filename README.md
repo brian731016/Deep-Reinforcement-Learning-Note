@@ -12,7 +12,10 @@ The template code of this repo is from the course Deep Reinforcement Learning in
 - [x] Monte Carlo Tree Search
 - [x] Value, Policy network
 - [x] AlphaZero like Algorithm
-- [ ] DQN
-- [ ] Double DQN
-- [ ] Dueling DQN
-- [ ] Rainbow DQN
+- [x] DQN
+- [x] Double DQN
+- [x] Dueling DQN
+- [x] Rainbow DQN
+- [ ] DDPG
+- [ ] SAC
+- [ ] PPO
